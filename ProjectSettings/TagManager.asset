@@ -6,8 +6,8 @@ TagManager:
   tags:
   - Ground
   - Enemy
-  - Ice
-  - Bullet
+  - Setting
+  - Treant
   layers:
   - Default
   - TransparentFX
